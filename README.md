@@ -36,5 +36,4 @@ Use Case: Create lightning Component to display on case record page
 
    6. It also Shown Last Sync date.
    
-Above Use cases has test cases written in test class and it executes successfully.
-It includes both positive and negative cases.
+Test cases has written for above use cases in test class and it executes successfully. It includes both positive and negative cases.
