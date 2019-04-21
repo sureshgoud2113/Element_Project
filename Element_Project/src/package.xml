@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomLabels</name>
+    </types>
+    <types>
+        <members>Case-Case %28Marketing%29 Layout</members>
+        <members>Case-Case %28Sales%29 Layout</members>
+        <members>Case-Case %28Support%29 Layout</members>
+        <members>Case-Case Layout</members>
+        <members>CaseClose-Close Case Layout</members>
+        <members>Error_Log__c-Error_Log Layout</members>
+        <members>Policy__c-Policy Layout</members>
+        <members>Related_Policy__c-Related Policy Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Error_Log__c</members>
+        <members>Policy__c</members>
+        <members>Related_Policy__c</members>
+        <members>Case</members>
+        <members>Contact</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>PaymentHistory</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>unfiled$public</members>
+        <members>unfiled$public/ClaimApprovedEmailNotificationTemplate</members>
+        <name>EmailTemplate</name>
+    </types>
+    <version>38.0</version>
+</Package>

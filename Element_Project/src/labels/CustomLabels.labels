@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>APPROVED</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>APPROVED</shortDescription>
+        <value>Approved</value>
+    </labels>
+    <labels>
+        <fullName>ENDPOINT_URL</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ENDPOINT URL</shortDescription>
+        <value>https://gist.githubusercontent.com/sureshgoud2113/b7c7cce700a5acd25df0d902ca66381d/raw/b237f01c17ff3ac52fb43bc0a0e9bd1ff7b19279/paymentHistory.json</value>
+    </labels>
+</CustomLabels>

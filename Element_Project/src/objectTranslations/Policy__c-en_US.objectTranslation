@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Policy</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Policies</value>
+    </caseValues>
+    <fields>
+        <help><!-- Full Description of Policy --></help>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Entry Age --></label>
+        <name>Entry_Age__c</name>
+    </fields>
+    <fields>
+        <label><!-- Maximum Maturity Age --></label>
+        <name>Maximum_Maturity_Age__c</name>
+    </fields>
+    <fields>
+        <label><!-- Medical Examination --></label>
+        <name>Medical_Examination__c</name>
+        <picklistValues>
+            <masterLabel>N/A</masterLabel>
+            <translation><!-- N/A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not required</masterLabel>
+            <translation><!-- Not required --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Required</masterLabel>
+            <translation><!-- Required --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Minimum Premium/Purchase Price --></label>
+        <name>Minimum_Premium_Purchase_Price__c</name>
+    </fields>
+    <fields>
+        <label><!-- Minimum Sum Assured --></label>
+        <name>Minimum_Sum_Assured__c</name>
+    </fields>
+    <fields>
+        <label><!-- Plan Type --></label>
+        <name>Plan_Type__c</name>
+    </fields>
+    <fields>
+        <help><!-- Enter name of the policy --></help>
+        <label><!-- Policy Name --></label>
+        <name>Policy_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Policy Term --></label>
+        <name>Policy_Term__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Active</masterLabel>
+            <translation><!-- Active --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Discontinued</masterLabel>
+            <translation><!-- Discontinued --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Inactive</masterLabel>
+            <translation><!-- Inactive --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
