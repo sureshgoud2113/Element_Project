@@ -22,8 +22,8 @@ Use Case: Create lightning Component to display on case record page
       Policy and customer related policies will display under the Case.
    3. Created lightning component and displayed Related Policies information and Payment History.
    
-      Lightining Component: CasePaymetHistory.cmp
-                            CasePaymetHistoryController.js
+      Lightining Component: CasePaymetHistory.cmp,
+                            CasePaymetHistoryController.js,
                             CasePaymetHistoryHelper.js
                             
       Apex Class: PaymentHistoryCtrl.cls
