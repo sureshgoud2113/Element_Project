@@ -35,3 +35,6 @@ Use Case: Create lightning Component to display on case record page
       EndPoint URL:               https://gist.githubusercontent.com/sureshgoud2113/b7c7cce700a5acd25df0d902ca66381d/raw/b237f01c17ff3ac52fb43bc0a0e9bd1ff7b19279/paymentHistory.json
 
    6. It also Shown Last Sync date.
+   
+Above Use cases has test cases written in test class and it executes successfully.
+It includes both positive and negative cases.
